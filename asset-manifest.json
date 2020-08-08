@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/awongsite/static/css/main.e0ecc614.chunk.css",
-    "main.js": "/awongsite/static/js/main.2b58440c.chunk.js",
-    "main.js.map": "/awongsite/static/js/main.2b58440c.chunk.js.map",
+    "main.css": "/awongsite/static/css/main.32d3bfb9.chunk.css",
+    "main.js": "/awongsite/static/js/main.3b2f7b15.chunk.js",
+    "main.js.map": "/awongsite/static/js/main.3b2f7b15.chunk.js.map",
     "runtime-main.js": "/awongsite/static/js/runtime-main.9018a9de.js",
     "runtime-main.js.map": "/awongsite/static/js/runtime-main.9018a9de.js.map",
     "static/css/2.af0132db.chunk.css": "/awongsite/static/css/2.af0132db.chunk.css",
-    "static/js/2.3a25f369.chunk.js": "/awongsite/static/js/2.3a25f369.chunk.js",
-    "static/js/2.3a25f369.chunk.js.map": "/awongsite/static/js/2.3a25f369.chunk.js.map",
+    "static/js/2.e9e77395.chunk.js": "/awongsite/static/js/2.e9e77395.chunk.js",
+    "static/js/2.e9e77395.chunk.js.map": "/awongsite/static/js/2.e9e77395.chunk.js.map",
     "62eef730a45373193760.worker.js": "/awongsite/62eef730a45373193760.worker.js",
     "62eef730a45373193760.worker.js.LICENSE.txt": "/awongsite/62eef730a45373193760.worker.js.LICENSE.txt",
     "62eef730a45373193760.worker.js.map": "/awongsite/62eef730a45373193760.worker.js.map",
@@ -15,15 +15,16 @@
     "89ab92579156c1c59d6e.worker.js.LICENSE.txt": "/awongsite/89ab92579156c1c59d6e.worker.js.LICENSE.txt",
     "89ab92579156c1c59d6e.worker.js.map": "/awongsite/89ab92579156c1c59d6e.worker.js.map",
     "index.html": "/awongsite/index.html",
-    "precache-manifest.727d3aa2ffe7d2172517a5b0af871e0e.js": "/awongsite/precache-manifest.727d3aa2ffe7d2172517a5b0af871e0e.js",
+    "precache-manifest.ddb85039f3e2f5f368d5f8c629e45f59.js": "/awongsite/precache-manifest.ddb85039f3e2f5f368d5f8c629e45f59.js",
     "service-worker.js": "/awongsite/service-worker.js",
     "static/css/2.af0132db.chunk.css.map": "/awongsite/static/css/2.af0132db.chunk.css.map",
-    "static/css/main.e0ecc614.chunk.css.map": "/awongsite/static/css/main.e0ecc614.chunk.css.map",
-    "static/js/2.3a25f369.chunk.js.LICENSE.txt": "/awongsite/static/js/2.3a25f369.chunk.js.LICENSE.txt",
+    "static/css/main.32d3bfb9.chunk.css.map": "/awongsite/static/css/main.32d3bfb9.chunk.css.map",
+    "static/js/2.e9e77395.chunk.js.LICENSE.txt": "/awongsite/static/js/2.e9e77395.chunk.js.LICENSE.txt",
     "static/media/DSCBracketsSquare.png": "/awongsite/static/media/DSCBracketsSquare.e52543dd.png",
     "static/media/H&Wlogo.png": "/awongsite/static/media/H&Wlogo.02308db2.png",
     "static/media/ResumeSummer2020.pdf": "/awongsite/static/media/ResumeSummer2020.79ea41db.pdf",
     "static/media/Sample.less": "/awongsite/static/media/Sample.c62e3fc0.less",
+    "static/media/WongAustinResume2020.pdf": "/awongsite/static/media/WongAustinResume2020.b680b931.pdf",
     "static/media/coderssb.png": "/awongsite/static/media/coderssb.b73f6b4f.png",
     "static/media/frontcover.jpg": "/awongsite/static/media/frontcover.2f1ef55e.jpg",
     "static/media/gitLogo.svg": "/awongsite/static/media/gitLogo.76d344f0.svg",
@@ -37,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.9018a9de.js",
     "static/css/2.af0132db.chunk.css",
-    "static/js/2.3a25f369.chunk.js",
-    "static/css/main.e0ecc614.chunk.css",
-    "static/js/main.2b58440c.chunk.js"
+    "static/js/2.e9e77395.chunk.js",
+    "static/css/main.32d3bfb9.chunk.css",
+    "static/js/main.3b2f7b15.chunk.js"
   ]
 }
