@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awongsite/89ab92579156c1c59d6e.worker.js.LICENSE.txt"
   },
   {
-    "revision": "fe7bf2f5fddaa5557121d89bd1e3c9fe",
+    "revision": "7179914444441bb6bf36a8f2f33f8dd0",
     "url": "/awongsite/index.html"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awongsite/static/css/2.af0132db.chunk.css"
   },
   {
-    "revision": "f57183a0fec47f93d368",
-    "url": "/awongsite/static/css/main.81b231d5.chunk.css"
+    "revision": "3fb90571a03ab4d50bca",
+    "url": "/awongsite/static/css/main.366d896d.chunk.css"
   },
   {
     "revision": "04964b00b403304d387b",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awongsite/static/js/2.badbff6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f57183a0fec47f93d368",
+    "revision": "3fb90571a03ab4d50bca",
     "url": "/awongsite/static/js/main.e3fe02a8.chunk.js"
   },
   {
